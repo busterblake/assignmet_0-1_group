@@ -1,5 +1,8 @@
-//
-// Created by Blake Mosley on 1/17/24.
-//
+#include <iostream>
 
-#include "main.h"
+int main()
+{
+    std::cout << "Hello World" << std::endl;
+    std::cout << "Blake Mosley" << std::endl;
+
+}
